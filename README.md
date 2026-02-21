@@ -10,3 +10,18 @@ belly (bottom), or sides of aircraft or any other vehicles, whether manned or un
 ​Submarines: Featuring a permanently installed, concealed happy system. When deployed, the extending wings facilitate significantly faster diving or surfacing maneuvers.
 ​Tanks: Equipped with a permanent happy system to enhance mobility. In emergencies, such as a broken track, the system provides enough lift or thrust to allow the vehicle to continue gliding or moving forward.
 ​
+21/02/2026
+To consolidate all information (S wing kit + Anti-abrasion buffer materials + Hybrid sling materials), I have summarized them into the following points:
+​1. Definition and Core Structure:
+​S wing kit is a lift-enhancing wing/arm assembly designed for Non-destructive installation.
+​It utilizes a Subframe system and a cross-side sling tethering method to achieve structural balance.
+​2. Control System and Performance:
+​Controllable from both the cockpit/cabin and via online systems.
+​Enhances STOL/Vertical Landing capabilities (Aircraft), Rapid Diving/Surfacing (Submarines), and Emergency Gliding/Escape (Tanks).
+​3. Anti-Abrasion Buffer (The Buffer):
+​Groove Structure: Constructed from PEEK for maximum pressure and impact resistance.
+​Sling Contact Surface: Lined with Filled PTFE for superior smoothness and low friction.
+​4. Hybrid Sling Material (The Hybrid Sling):
+​Inner Core: Zylon + Dyneema (The lightest and strongest combination).
+​Middle Layer: Kevlar (Fire-resistant and cut-resistant).
+​Outer Sheath: PTFE/PVDF (Slick, resistant to acids, alkalis, salt, and UV).
